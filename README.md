@@ -1,0 +1,4 @@
+# Xici Reader
+This project is a personalized iPad reader app, designed to source and present content from the web pages of Xici Hutong, one of China's earliest online forums. The app offers a reading experience similar to Flipboard, providing a visually engaging and interactive way to browse and read through the forum's content. By parsing the web pages of Xici Hutong, the app curates and organizes posts and discussions into a personalized reading experience, allowing users to easily explore the rich history and diverse topics of the forum in a modern, magazine-style format.
+
+# NOTE:  this app was written 10 years ago during a long weekend and never maintained. 
